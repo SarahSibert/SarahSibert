@@ -1,4 +1,4 @@
-### Hi there I'm Sarah, a web developer working mainly in PHP. 👋
+### Hi there, I'm Sarah, a web developer working mainly in PHP. 👋
 
 <!--
 **SarahSibert/SarahSibert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
