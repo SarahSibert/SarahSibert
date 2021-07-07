@@ -10,3 +10,6 @@
 - 🤔 I’m also looking for part-time/freelance work.
 - ⚡ Fun fact: when I'm not programming, I'm hard at work on our olive farm and looking after our growing number of animals.  
 - You can also sponsor my open source work if you're feeling in a generous mood!
+
+
+I really need to edit this to make it more exciting but I just don't have a lot of time at the minute.  I'm busy freelancing and when I'm not doing that I'm at my farm weding the vegetable plot or keeping the cats happy. I also look after some goats and sheep and more and more stay animals by the day. 
